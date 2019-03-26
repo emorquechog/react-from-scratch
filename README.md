@@ -1,4 +1,4 @@
-# React App Core (FRT)
+# React App Core
 
 This project is for starting to create a react app, includes all features to be reach a good app, is a boilerplate from scratch,The application created with the best practices and latest packages, yo can go from development to production (webpack).
 
