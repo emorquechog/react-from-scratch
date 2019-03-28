@@ -61,4 +61,4 @@ yarn build
 
 ## Authors
 
--   **Efrén Morquecho** - _Core application_ - [FRT](https://www.frontrt.com/)
+-   **Efrén Morquecho** - _Core application_
